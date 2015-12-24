@@ -54,3 +54,12 @@ $ lein change version "leiningen.release/bump-version" :patch && lein pprint :ve
 "5.5.2-SNAPSHOT"
 ```
 
+## License
+
+Copyright © 2015 Puppet Labs
+
+Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+## Support
+
+Please log tickets and issues at our [JIRA tracker](https://tickets.puppetlabs.com/browse/TK).
