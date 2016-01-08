@@ -1,4 +1,4 @@
-(ns release-4digit-version.plugin
+(ns lein-release-4digit-version.plugin
   (:require [robert.hooke :as hooke]
             [leiningen.release :as release]
             [leiningen.release-4digit-version :as release-4d]))

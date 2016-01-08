@@ -1,4 +1,4 @@
-# release-4digit-version
+# lein-release-4digit-version
 
 A Leiningen plugin that can be used with the `release` and `change`
 tasks, but supports 4-digit version numbers (e.g. 1.2.3.4,
@@ -20,8 +20,12 @@ version number has 4 digits.
 
 ## Usage
 
-Put `[release-4digit-version "0.1.0-SNAPSHOT"]` into the `:plugins` vector of
+Add `[lein-release-4digit-version <version>]` into the `:plugins` vector of
 your project.clj.
+
+The latest version is:
+
+[![Clojars Project](http://clojars.org/lein-release-4digit-version/lein-release-4digit-version/latest-version.svg)](http://clojars.org/lein-release-4digit-version/lein-release-4digit-version)
 
 After adding the plugin dependency, you may use the `release` and
 `change` tasks as usual:
