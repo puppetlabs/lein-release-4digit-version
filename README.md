@@ -67,3 +67,9 @@ Distributed under the [Apache License, Version 2.0](http://www.apache.org/licens
 ## Support
 
 Please log tickets and issues at our [JIRA tracker](https://tickets.puppetlabs.com/browse/TK).
+
+## Maintenance
+
+Maintainers: Chris Price <chris@puppet.com>, Wayne Warren <wayne@puppet.com>
+
+Tickets: https://tickets.puppetlabs.com/browse/TK
